@@ -1,4 +1,13 @@
 ### 2022.05.27
 - On Calibration of Modern Neural Networks (ICML'17, [PDF](https://arxiv.org/abs/1706.04599))  
-  xxxx
-- xxx
+  作者提出模型的置信度纠正问题 (Confidence Calibration)，即模型所输出的置信度在不同区间内应具有与之相对应的准确率，以此符合我们对置信度的讨论意义。  
+  作者展示了多种衡量置信度与目标准确率差异的指标，如：Reliability Diagrams, Expected Calibration Error (ECE), Maximum Calibration Error (MCE), Negative log likelihood。此外，作者讨论了 Depth/Filters per layer/Batch Normalization/Weight decay 对置信度带来的影响。  
+  作者提出了 Temperature Scaling，即引入超参数 T 对置信度分布进行改变。值得注意的是，这是一种 Post-processing based calibration method，而且并不改变模型的准确率。  
+- Bin-wise Temperature Scaling (BTS): Improvement in Confidence Calibration Performance through Simple Scaling Techniques (ICCV Workshop'19, [PDF](https://arxiv.org/pdf/1908.11528v2.pdf))
+  作者提出了 Bin-wise Temperature Scaling，即对于每个置信度区间引入一个超参数 T。  
+- When Does Label Smoothing Help?  (NIPS'19, [PDF](https://arxiv.org/pdf/1906.02629.pdf))
+  作者主要讨论了 Label Smoothing 在深度学习中带来的好处与弊端。其中，Label Smoothing 可以起到置信度纠正的作用。  
+- Trainable Calibration Measures For Neural Networks From Kernel Mean Embeddings (PMLR'18, [PDF](http://proceedings.mlr.press/v80/kumar18a/kumar18a.pdf))
+  作者基于 RKHS 引入 Maximum Mean Calibration Error (MMCE) 指标，以此在训练过程中约束模型的置信度。  
+- Calibrating Deep Neural Networks using Focal Loss (NIPS'20, [PDF](https://arxiv.org/pdf/2002.09437.pdf))
+  作者讨论了 Focal Loss 之所以对于置信度纠正的有效的原因。  
