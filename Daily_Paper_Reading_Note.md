@@ -3,6 +3,8 @@
   作者讨论了 Expected Calibration Error 存在的问题，并提出 Adaptive Calibration Error (ACE)。
 - Confidence Regularized Self-Training (ICCV'19, [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zou_Confidence_Regularized_Self-Training_ICCV_2019_paper.pdf))  
   作者在 Unsupervised Domain Adaptation 问题中改进 Self-training 框架 (即模型生成伪标签以供模型不断迭代学习)，具体引入两种 Confidence Regularization (i.e., Label regularization and model regularization)。  
+- Multivariate Confidence Calibration for Object Detection (CVPR Workshop'20, [PDF](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w20/Kuppers_Multivariate_Confidence_Calibration_for_Object_Detection_CVPRW_2020_paper.pdf))  
+  作者通过观察发现 "the calibration error depends on bounding box properties"，由此提出 Bbox-sensitive classification and regression branch based calibration method。   
 - xx
 
 
