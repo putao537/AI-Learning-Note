@@ -5,7 +5,9 @@
   作者在 Unsupervised Domain Adaptation 问题中改进 Self-training 框架 (即模型生成伪标签以供模型不断迭代学习)，具体引入两种 Confidence Regularization (i.e., Label regularization and model regularization)。  
 - Multivariate Confidence Calibration for Object Detection (CVPR Workshop'20, [PDF](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w20/Kuppers_Multivariate_Confidence_Calibration_for_Object_Detection_CVPRW_2020_paper.pdf))  
   作者通过观察发现 "the calibration error depends on bounding box properties"，由此提出 Bbox-sensitive classification and regression branch based calibration method。   
-- xx
+- Beta calibration: a well-founded and easily implemented improvement on
+logistic calibration for binary classifiers (PMLR'17, [PDF](http://proceedings.mlr.press/v54/kull17a/kull17a.pdf))  
+  作者基于 Logistic Calibration 改进提出 Beta Calibration。
 
 
 ### 2022.05.29
