@@ -8,6 +8,8 @@
 - Beta calibration: a well-founded and easily implemented improvement on
 logistic calibration for binary classifiers (PMLR'17, [PDF](http://proceedings.mlr.press/v54/kull17a/kull17a.pdf))  
   作者基于 Logistic Calibration 改进提出 Beta Calibration。
+- Be Confident! Towards Trustworthy Graph Neural Networks via Confidence Calibration (NIPS'21, [PDF](https://openreview.net/pdf?id=9c-IsSptbmA))  
+  
 
 
 ### 2022.05.29
