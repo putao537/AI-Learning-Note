@@ -1,7 +1,10 @@
 ### 2022.05.30
 - Measuring Calibration in Deep Learning (CVPR Workshop'19, [PDF](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Nixon_Measuring_Calibration_in_Deep_Learning_CVPRW_2019_paper.pdf))  
   作者讨论了 Expected Calibration Error 存在的问题，并提出 Adaptive Calibration Error (ACE)。
-- xxx
+- Confidence Regularized Self-Training (ICCV'19, [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zou_Confidence_Regularized_Self-Training_ICCV_2019_paper.pdf))  
+  作者在 Unsupervised Domain Adaptation 问题中改进 Self-training 框架 (即模型生成伪标签以供模型不断迭代学习)，具体引入两种 Confidence Regularization (i.e., Label regularization and model regularization)。  
+- xx
+
 
 ### 2022.05.29
 - On Calibration of Modern Neural Networks (ICML'17, [PDF](https://arxiv.org/abs/1706.04599))    
