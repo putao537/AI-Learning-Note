@@ -1,4 +1,9 @@
-### 2022.05.27
+### 2022.05.30
+- Measuring Calibration in Deep Learning (CVPR Workshop'19, [PDF](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Nixon_Measuring_Calibration_in_Deep_Learning_CVPRW_2019_paper.pdf))  
+  作者讨论了 Expected Calibration Error 存在的问题，并提出 Adaptive Calibration Error (ACE)。
+- xxx
+
+### 2022.05.29
 - On Calibration of Modern Neural Networks (ICML'17, [PDF](https://arxiv.org/abs/1706.04599))    
   作者提出模型的置信度纠正问题 (Confidence Calibration)，即模型所输出的置信度在不同区间内应具有与之相对应的准确率，以此符合我们对置信度的讨论意义。作者展示了多种衡量置信度与目标准确率差异的指标，如：Reliability Diagrams, Expected Calibration Error (ECE), Maximum Calibration Error (MCE), Negative log likelihood。此外，作者讨论了 Depth/Filters per layer/Batch Normalization/Weight decay 对置信度带来的影响。作者提出了 Temperature Scaling，即引入超参数 T 对置信度分布进行改变。值得注意的是，这是一种 Post-processing based calibration method，而且并不改变模型的准确率。    
 - Bin-wise Temperature Scaling (BTS): Improvement in Confidence Calibration Performance through Simple Scaling Techniques (ICCV Workshop'19, [PDF](https://arxiv.org/pdf/1908.11528v2.pdf))  
