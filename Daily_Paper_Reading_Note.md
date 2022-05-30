@@ -9,9 +9,8 @@
 logistic calibration for binary classifiers (PMLR'17, [PDF](http://proceedings.mlr.press/v54/kull17a/kull17a.pdf))  
   作者基于 Logistic Calibration 改进提出 Beta Calibration。
 - Be Confident! Towards Trustworthy Graph Neural Networks via Confidence Calibration (NIPS'21, [PDF](https://openreview.net/pdf?id=9c-IsSptbmA))  
+  作者通过观察发现图神经网络的置信度偏低，并且纠正后的图神经网络中邻居节点的置信度方差明显变小，由此提出 Learnable Topology Based Temperature Scaling Method。
   
-
-
 ### 2022.05.29
 - On Calibration of Modern Neural Networks (ICML'17, [PDF](https://arxiv.org/abs/1706.04599))    
   作者提出模型的置信度纠正问题 (Confidence Calibration)，即模型所输出的置信度在不同区间内应具有与之相对应的准确率，以此符合我们对置信度的讨论意义。作者展示了多种衡量置信度与目标准确率差异的指标，如：Reliability Diagrams, Expected Calibration Error (ECE), Maximum Calibration Error (MCE), Negative log likelihood。此外，作者讨论了 Depth/Filters per layer/Batch Normalization/Weight decay 对置信度带来的影响。作者提出了 Temperature Scaling，即引入超参数 T 对置信度分布进行改变。值得注意的是，这是一种 Post-processing based calibration method，而且并不改变模型的准确率。    
