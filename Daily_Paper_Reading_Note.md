@@ -1,3 +1,11 @@
+### 2022.06.01
+- ERNIE-ViL: Knowledge Enhanced Vision-Language Representations through Scene Graphs (AAAI'21, [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16431))  
+  作者设计了 Scene Graph Prediction 任务来进行预训练，具体做法为：给定一张图像与对应文本，随机遮盖掉部分检测区域以及由 Scene Graph Parser解析得到的场景图中的部分节点，要求模型预测被遮盖的节点。  
+- Context-aware Scene Graph Generation with Seq2Seq Transformers (ICCV'21, [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Lu_Context-Aware_Scene_Graph_Generation_With_Seq2Seq_Transformers_ICCV_2021_paper.pdf))  
+  作者认为目前的 SGG 方法大多都是对于各个三元组并行进行独立预测，并没有考虑不同三元组之间的上下文信息（如：一个人与冲浪板 vs 一个人与冲浪板 with 这个人穿着鞋并且旁边的人在海滩上）。因此，作者利用 Seq2Seq 结构进行 sequential conditioning。
+- xx
+
+
 ### 2022.05.30
 - Measuring Calibration in Deep Learning (CVPR Workshop'19, [PDF](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Nixon_Measuring_Calibration_in_Deep_Learning_CVPRW_2019_paper.pdf))  
   作者讨论了 Expected Calibration Error 存在的问题，并提出 Adaptive Calibration Error (ACE)。
