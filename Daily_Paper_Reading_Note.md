@@ -1,3 +1,7 @@
+### 2022.06.02
+- Puzzle-CAM: Improved Localization via Matching Partial and Full Features (ICIP'21, [PDF](https://arxiv.org/pdf/2101.11253.pdf))  
+  大部分 Weakly-supervised Semantic Segmentation (WSSS) 算法都基于 CAM 进行构造，作者发现 CAM 往往仅利用物体的部分区域去捕捉物体的关键特征，并且 "the difference between the CAM of a single image and the merged CAM from image patches is large"。因此，作者提出 Puzzle-CAM 对模型学习进行约束。
+  
 ### 2022.06.01
 - ERNIE-ViL: Knowledge Enhanced Vision-Language Representations through Scene Graphs (AAAI'21, [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16431))  
   作者设计了 Scene Graph Prediction 任务来进行预训练，具体做法为：给定一张图像与对应文本，随机遮盖掉部分检测区域以及由 Scene Graph Parser解析得到的场景图中的部分节点，要求模型预测被遮盖的节点。  
