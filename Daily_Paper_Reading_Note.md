@@ -1,3 +1,7 @@
+### 2022.06.08
+- Handling Difficult Labels for Multi-label Image Classification via Uncertainty Distillation (ACM MM'21, [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475406))
+  作者尝试使用蒸馏学习的方式来解决多标签图像识别任务中存在的 “困难物体置信度偏高” 问题。
+
 ### 2022.06.02
 - Puzzle-CAM: Improved Localization via Matching Partial and Full Features (ICIP'21, [PDF](https://arxiv.org/pdf/2101.11253.pdf))  
   大部分 Weakly-supervised Semantic Segmentation (WSSS) 算法都基于 CAM 进行构造，作者发现 CAM 往往仅利用物体的部分区域去捕捉物体的关键特征，并且 "the difference between the CAM of a single image and the merged CAM from image patches is large"。因此，作者提出 Puzzle-CAM 对模型学习进行约束。
