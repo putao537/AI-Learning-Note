@@ -1,5 +1,10 @@
+### 2022.06.13
+- Dynamic Scene Graph Generation via Anticipatory Pre-training (CVPR'22, [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Dynamic_Scene_Graph_Generation_via_Anticipatory_Pre-Training_CVPR_2022_paper.pdf))  
+  作者在论文中讨论了 "the temporal correlation of visual relationships in different frames"。
+- xxx
+
 ### 2022.06.08
-- Handling Difficult Labels for Multi-label Image Classification via Uncertainty Distillation (ACM MM'21, [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475406))
+- Handling Difficult Labels for Multi-label Image Classification via Uncertainty Distillation (ACM MM'21, [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475406))  
   作者尝试使用蒸馏学习的方式来解决多标签图像识别任务中存在的 “困难物体置信度偏高” 问题。
 
 ### 2022.06.02
