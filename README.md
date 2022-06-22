@@ -1,5 +1,7 @@
 # AI-Learning-Note
 
+![](./Figures/keep_learning.jpg)
+
 ## :pushpin: 知识点
 
 ## :open_book: 课程学习
