@@ -7,6 +7,8 @@ https://github.com/CyC2018/CS-Notes
 
 ## 前沿论文
 
+[Google Scholar](https://scholar.google.com/) [Connected Papers](https://www.connectedpapers.com/) [Read Paper](https://readpaper.com/)
+
 - [putao537/Awesome-Multi-label-Image-Recognition](https://github.com/putao537/Awesome-Multi-label-Image-Recognition)
 - [putao537/Awesome-Video-Understanding](https://github.com/putao537/Awesome-Video-Understanding)
 
