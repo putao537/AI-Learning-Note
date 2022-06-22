@@ -9,7 +9,7 @@ https://github.com/CyC2018/CS-Notes
 
  [[Google Scholar]](https://scholar.google.com/) &nbsp;  [[Connected Papers]](https://www.connectedpapers.com/) &nbsp;  [[Read Paper]](https://readpaper.com/)
 
-#### 领域论文集
+#### 领域论文
 - [putao537/Awesome-Multi-label-Image-Recognition](https://github.com/putao537/Awesome-Multi-label-Image-Recognition)
 - [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection)
 - [zhaoxin94/awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
@@ -17,6 +17,9 @@ https://github.com/CyC2018/CS-Notes
 - [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition)
 - [ChanganVR/awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision)
 - [putao537/Awesome-Video-Understanding](https://github.com/putao537/Awesome-Video-Understanding)
+
+#### 视频讲解
+- 跟李沐学 AI ([Bilibili](https://space.bilibili.com/1567748478) &nbsp; [Youtube](https://www.youtube.com/channel/UC8WCW6C3BWLKSZ5cMzD8Gyw/featured))
 
 https://github.com/MLNLP-World/Paper-Writing-Tips
 
