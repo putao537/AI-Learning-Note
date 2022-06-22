@@ -11,6 +11,10 @@ https://github.com/CyC2018/CS-Notes
 
 #### 领域论文集
 - [putao537/Awesome-Multi-label-Image-Recognition](https://github.com/putao537/Awesome-Multi-label-Image-Recognition)
+- [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection)
+- [zhaoxin94/awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
+- [artix41/awesome-transfer-learning](https://github.com/artix41/awesome-transfer-learning)
+- [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition)
 - [putao537/Awesome-Video-Understanding](https://github.com/putao537/Awesome-Video-Understanding)
 
 https://github.com/MLNLP-World/Paper-Writing-Tips
