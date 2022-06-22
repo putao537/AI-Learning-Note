@@ -1,8 +1,8 @@
 # AI-Learning-Note
 
-## 知识点
+## :pushpin: 知识点
 
-## 课程学习
+## :open_book: 课程学习
 https://github.com/CyC2018/CS-Notes
 
 ## :bookmark_tabs: 前沿论文 
@@ -21,12 +21,12 @@ https://github.com/CyC2018/CS-Notes
 #### 视频讲解
 - 跟李沐学 AI ([[Bilibili]](https://space.bilibili.com/1567748478) &nbsp; [[Youtube]](https://www.youtube.com/channel/UC8WCW6C3BWLKSZ5cMzD8Gyw/featured))
 
-## 刷题笔记
+## :black_nib: 刷题笔记
 https://github.com/zhangxiann/PyTorch_Practice
 
 https://github.com/youngyangyang04/leetcode-master
 
-## 面试准备
+## :briefcase: 面试准备
 
 [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book)
 
