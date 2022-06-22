@@ -15,6 +15,7 @@ https://github.com/CyC2018/CS-Notes
 - [zhaoxin94/awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 - [artix41/awesome-transfer-learning](https://github.com/artix41/awesome-transfer-learning)
 - [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition)
+- [ChanganVR/awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision)
 - [putao537/Awesome-Video-Understanding](https://github.com/putao537/Awesome-Video-Understanding)
 
 https://github.com/MLNLP-World/Paper-Writing-Tips
@@ -27,3 +28,8 @@ https://github.com/youngyangyang04/leetcode-master
 ## 面试准备
 
 [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book)
+
+
+https://github.com/sindresorhus/awesome
+https://github.com/sindresorhus/awesome#computer-science
+https://github.com/jbhuang0604/awesome-computer-vision#readme
