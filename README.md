@@ -1,6 +1,6 @@
 # AI-Learning-Note
 
-![](./Figures/keep_learning.jpg)
+<center>![](./Figures/keep_learning.jpg)</center>
 
 ## :pushpin: 知识点
 
