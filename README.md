@@ -19,9 +19,7 @@ https://github.com/CyC2018/CS-Notes
 - [putao537/Awesome-Video-Understanding](https://github.com/putao537/Awesome-Video-Understanding)
 
 #### 视频讲解
-- 跟李沐学 AI ([Bilibili](https://space.bilibili.com/1567748478) &nbsp; [Youtube](https://www.youtube.com/channel/UC8WCW6C3BWLKSZ5cMzD8Gyw/featured))
-
-https://github.com/MLNLP-World/Paper-Writing-Tips
+- 跟李沐学 AI ([[Bilibili]](https://space.bilibili.com/1567748478) &nbsp; [[Youtube]](https://www.youtube.com/channel/UC8WCW6C3BWLKSZ5cMzD8Gyw/featured))
 
 ## 刷题笔记
 https://github.com/zhangxiann/PyTorch_Practice
