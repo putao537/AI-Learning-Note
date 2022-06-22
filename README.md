@@ -5,9 +5,9 @@
 ## 课程学习
 https://github.com/CyC2018/CS-Notes
 
-## 前沿论文 :bookmark_tabs:
+## :bookmark_tabs: 前沿论文 
 
- [[Google Scholar]](https://scholar.google.com/) & [[Connected Papers]](https://www.connectedpapers.com/) & [[Read Paper]](https://readpaper.com/)
+ [[Google Scholar]](https://scholar.google.com/) &nbsp;  [[Connected Papers]](https://www.connectedpapers.com/) &nbsp;  [[Read Paper]](https://readpaper.com/)
 
 - [putao537/Awesome-Multi-label-Image-Recognition](https://github.com/putao537/Awesome-Multi-label-Image-Recognition)
 - [putao537/Awesome-Video-Understanding](https://github.com/putao537/Awesome-Video-Understanding)
