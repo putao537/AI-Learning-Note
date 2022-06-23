@@ -4,6 +4,36 @@
 
 ## :pushpin: 知识点
 
+<details>
+  <summary> 数学基础 </summary>
+ 
+</details>
+
+<details>
+  <summary> 机器学习基础 </summary>
+ 
+</details>
+
+<details>
+  <summary> 计算机视觉 </summary>
+ 
+</details>
+
+<details>
+  <summary> 自然语言处理 </summary>
+ 
+</details>
+
+<details>
+  <summary> 推荐系统 </summary>
+ 
+</details>
+
+<details>
+  <summary> 强化学习 </summary>
+ 
+</details>
+
 ## :open_book: 课程学习
 https://github.com/CyC2018/CS-Notes
 
