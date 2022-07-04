@@ -41,6 +41,12 @@ https://github.com/CyC2018/CS-Notes
 
  [[Google Scholar]](https://scholar.google.com/) &nbsp;  [[Connected Papers]](https://www.connectedpapers.com/) &nbsp;  [[Read Paper]](https://readpaper.com/)
 
+#### 会议与期刊
+|  **Pub.**  | **Title**                    | **Comments** | **Links** |
+| :--------: | :--------------------------- | :----------- | :-------: |
+| Conf |  Computer Vision and Pattern Recognition Conference (CVPR) |  | [[2022]](https://openaccess.thecvf.com/CVPR2022) |
+
+
 #### 领域论文
 - [putao537/Awesome-Multi-label-Image-Recognition](https://github.com/putao537/Awesome-Multi-label-Image-Recognition)
 - [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection)
