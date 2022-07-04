@@ -43,8 +43,17 @@ https://github.com/CyC2018/CS-Notes
 
 #### 会议与期刊
 |  **Pub.**  | **Title**                    | **Comments** | **Links** |
+| Journal | |  |  |
+| Journal | ACM International Conference on Multimedia (**ACM MM**) |  |  |
 | :--------: | :--------------------------- | :----------- | :-------: |
-| Conf |  Computer Vision and Pattern Recognition Conference (CVPR) |  | [[2022]](https://openaccess.thecvf.com/CVPR2022) |
+| Conference | IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) |  | [[2022]](https://openaccess.thecvf.com/CVPR2022) |
+| Conference | IEEE/CVF International Conference on Computer Vision (**ICCV**)  |  | [[2021]](https://openaccess.thecvf.com/ICCV2021) |
+| Conference | European Conference on Computer Vision (**ECCV**) |  |  |
+| Conference | Neural Information Processing Systems (**NeuralPS**) |  |  |
+| Conference | International Conference on Learning Representations (**ICLR**) |  |  |
+| Conference | International Conference on Machine Learning (**ICML**) |  |  |
+| Conference | AAAI Conference on Artificial Intelligence (**AAAI**) |  |  |
+| Conference | ACM International Conference on Multimedia (**ACM MM**) |  |  |
 
 
 #### 领域论文
