@@ -44,9 +44,10 @@ https://github.com/CyC2018/CS-Notes
 #### 会议与期刊
 |  **Pub.**  | **Title**                    | **Comments** | **Links** |
 | :--------: | :--------------------------- | :----------- | :-------: |
-| Journal | TPAMI |  |  |
-| Journal | TIP |  |  |
-| Journal | TNNLS |  |  |
+| Journal | IEEE Transactions on Pattern Analysis and Machine Intelligence （**TPAMI**） |  |  |
+| Journal | IEEE Transactions on Image Processing (**TIP**) |  |  |
+| Journal | IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**) |  |  |
+| Journal | IEEE Transactions on Multimedia (**TMM**) |  |  |
 | Conference | IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) |  | [[2022]](https://openaccess.thecvf.com/CVPR2022) |
 | Conference | IEEE/CVF International Conference on Computer Vision (**ICCV**)  |  | [[2021]](https://openaccess.thecvf.com/ICCV2021) |
 | Conference | European Conference on Computer Vision (**ECCV**) |  |  |
