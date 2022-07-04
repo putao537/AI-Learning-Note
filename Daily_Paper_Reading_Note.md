@@ -1,5 +1,5 @@
 ### 2022.07.04
-- RegionCLIP: Region-based Language-Image Pretraining (CVPR'22, [PDF](https://arxiv.org/pdf/2112.09106.pdf))
+- RegionCLIP: Region-based Language-Image Pretraining (CVPR'22, [PDF](https://arxiv.org/pdf/2112.09106.pdf))  
   由于 Clip 是用整图进行对比学习，直接迁移到目标检测领域效果会出现明显的下降，于是作者提出了 RegionClip，即利用标注信息将图像按照各个物体的位置信息进行拆分，分别进行对比学习。
 - 
 
