@@ -1,7 +1,11 @@
+### 2022.07.04
+- RegionCLIP: Region-based Language-Image Pretraining (CVPR'22, [PDF](https://arxiv.org/pdf/2112.09106.pdf))
+  由于 Clip 是用整图进行对比学习，直接迁移到目标检测领域效果会出现明显的下降，于是作者提出了 RegionClip，即利用标注信息将图像按照各个物体的位置信息进行拆分，分别进行对比学习。
+- 
+
 ### 2022.06.13
 - Dynamic Scene Graph Generation via Anticipatory Pre-training (CVPR'22, [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Dynamic_Scene_Graph_Generation_via_Anticipatory_Pre-Training_CVPR_2022_paper.pdf))  
   作者在论文中讨论了 "the temporal correlation of visual relationships in different frames"。
-- xxx
 
 ### 2022.06.08
 - Handling Difficult Labels for Multi-label Image Classification via Uncertainty Distillation (ACM MM'21, [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475406))  
