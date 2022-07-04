@@ -39,7 +39,7 @@ https://github.com/CyC2018/CS-Notes
 
 ## :bookmark_tabs: 前沿论文 
 
- [[Google Scholar]](https://scholar.google.com/) &nbsp;  [[Connected Papers]](https://www.connectedpapers.com/) &nbsp;  [[Read Paper]](https://readpaper.com/) [[Paper Notes]](./Daily_Paper_Reading_Note.md)
+ [[Google Scholar]](https://scholar.google.com/) &nbsp; [[Connected Papers]](https://www.connectedpapers.com/) &nbsp; [[Read Paper]](https://readpaper.com/) &nbsp; [[Paper Notes]](./Daily_Paper_Reading_Note.md)
 
 #### 会议与期刊
 |  **Pub.**  | **Title**                    | **Comments** | **Links** |
