@@ -39,7 +39,7 @@ https://github.com/CyC2018/CS-Notes
 
 ## :bookmark_tabs: 前沿论文 
 
- [[Google Scholar]](https://scholar.google.com/) &nbsp; [[Connected Papers]](https://www.connectedpapers.com/) &nbsp; [[Read Paper]](https://readpaper.com/) &nbsp; [[Paper Notes]](./Daily_Paper_Reading_Note.md)
+ [[Google Scholar]](https://scholar.google.com/) &nbsp; [[Connected Papers]](https://www.connectedpapers.com/) &nbsp; [[Read Paper]](https://readpaper.com/)
 
 #### 领域论文
 - [putao537/Awesome-Multi-label-Image-Recognition](https://github.com/putao537/Awesome-Multi-label-Image-Recognition)
